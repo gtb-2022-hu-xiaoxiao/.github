@@ -1,3 +1,3 @@
 ## Welcome to Xiaoxiao's Org
 
-![maiming](./assets/maiming.jpg)
+![maiming](assets/img.jpg)
